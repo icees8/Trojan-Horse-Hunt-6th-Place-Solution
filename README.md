@@ -23,6 +23,7 @@ The figure below shows the **final reconstructed trojan triggers**, which consti
 </p>
 
 **Figure:** Final merged triggers after diffusional refinement and secondary merging.  
+
 Each subplot corresponds to one poisoned model. Triggers are multivariate (3 channels) with a fixed temporal length of 75. The reconstructed signals exhibit smooth temporal structure inherited from the baseline while retaining localized variations introduced by heuristic refinement. In several models, near-zero activations indicate minimal or weak trojan influence.
 
 ## Problem Description
