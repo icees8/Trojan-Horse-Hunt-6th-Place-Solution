@@ -1,6 +1,6 @@
 # Trojan Horse Hunt – 6th Place Solution
 
-This repository contains the **6th place solution** to the **European Space Agency (ESA) Trojan Horse Hunt in Time Series Forecasting Challenge**.  
+This repository contains the **6th place solution** to the **[European Space Agency (ESA) Trojan Horse Hunt in Time Series Forecasting Challenge](https://www.kaggle.com/competitions/trojan-horse-hunt-in-space)**.
 
 The objective of the competition was to reconstruct hidden trojan triggers embedded in poisoned forecasting models trained on spacecraft telemetry data.
 
